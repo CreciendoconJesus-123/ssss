@@ -1,0 +1,76 @@
+.contenedor{
+    display: flex;
+    justify-content:center;
+
+}
+.img-1{
+    width: 450px;
+    height: 250px;
+
+   
+}
+
+.img-2{
+    width: 450px;
+    height: 250px;
+    border-radius: 300px;
+   
+}
+
+
+.img-3{
+    width: 450px;
+    height: 250px;
+    border-radius: 300px;
+   
+    
+}
+
+.img-4{
+    width: 450px;
+    height: 250px;
+   
+}
+
+.img-5{
+    width: 450px;
+    height: 250px;
+
+}
+
+.img-6{
+    width: 450px;
+    height: 250px;
+    border-radius: 300px;
+}
+
+.navbar{
+    width: 90%;
+    padding: 30px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(180, 35, 35);
+    font-weight: 600;
+    padding: 15px;
+}
+
+li a:hover{
+    background: rgb(13, 177, 13);
+    transition: 0.5s;
+
+}
+
+
